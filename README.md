@@ -1,5 +1,4 @@
 ## spring-expertise
-~~ this ~~
 Gestion simplifiée de compétences détenues par des experts.
 ==> matrice des compétences ou annuaire d'expertise
 
@@ -11,3 +10,9 @@ Gestion simplifiée de compétences détenues par des experts.
 - matrice de toutes les ***compétences disponibles***.
   * une compétence peut se définir comme l'association entre un expert et un thème.
   * un même expert peut-être référencé dans plusieurs compétences
+
+## TODO
+~~ this ~~
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
