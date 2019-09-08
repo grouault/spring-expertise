@@ -13,7 +13,7 @@ Gestion simplifiée de compétences détenues par des experts.
 - complément : une table de données statistiques est mise en place pour tracer les modifications apportées aux informations présentes dans l'annuaire
 
 ## Principales règles de gestion applicables
-- Expert: [numero,nom, prenom,date_creation,date_modification]
+- Expert: [numero, nom,  prenom, date_creation, date_modification]
 
 ## TODO
 #1
