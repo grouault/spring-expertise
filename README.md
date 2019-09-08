@@ -16,4 +16,10 @@ Gestion simplifiée de compétences détenues par des experts.
 mojombo#1
 mojombo/github-flavored-markdown#1
 
-@mention
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
