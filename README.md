@@ -27,15 +27,9 @@ Gestion simplifiée de compétences détenues par des experts.
 - Recherche d'une compétence soit à partir d'un thème, soit à partir d'un expert
   * Modification, suppression, et modification d'entrées
 
-## TODO
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
-
-```javascript
-private void fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+## Description Technique
+- Utilisation d'une architecture en couche via la mise en oeuvre de modules Spring.
+  * la configuration des différents modules sont séparés les unes des autres pour conserver autant d'autonomie que posssible à chacune des composantes de l'application.
+- Accès à l'application via une architecture web
+- Définition des rôles utilisateurs afin de distinguer  les fonctions d'administration des fonctions de consultation.
+- Base de données relationnelles à travers une couche ORM
