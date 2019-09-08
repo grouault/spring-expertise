@@ -30,6 +30,12 @@ Gestion simplifiée de compétences détenues par des experts.
 ## Description Technique
 - Utilisation d'une architecture en couche via la mise en oeuvre de modules Spring.
   * la configuration des différents modules sont séparés les uns des autres pour conserver autant d'autonomie que posssible à chacune des composantes de l'application.
+    * Tiers transport (réception des requêtes et émission des réponses)
+    * Tiers présentation de données
+    * Tiers métier (traitement métier des informations)
+    * Tiers données et persistence des informations
+    * Tiers sécurité des informations
+    * Tiers administration et Supervision
 - Accès à l'application via une architecture web
 - Définition des rôles utilisateurs afin de distinguer  les fonctions d'administration des fonctions de consultation.
 - Base de données relationnelles à travers une couche ORM
