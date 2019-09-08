@@ -14,6 +14,7 @@ Gestion simplifiée de compétences détenues par des experts.
 
 ## Principales règles de gestion applicables
 - Expert: [numero, nom,  prenom, date_creation, date_modification]
+- Theme: [clé, libellé, date_création, date_modification]
 
 ## TODO
 #1
