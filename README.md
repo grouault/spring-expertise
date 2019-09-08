@@ -16,8 +16,8 @@ Gestion simplifiée de compétences détenues par des experts.
 - Expert: [numero, nom,  prenom, date_creation, date_modification]
 - Theme: [clé, libellé, date_création, date_modification]
 - Compétence: association <==> [Theme] n <----> n [Expert] 
- * un même thème peut être couvert par plusieurs experts
- * un expert peut être déclaré compétent sur plusieurs thèmes 
+  * un même thème peut être couvert par plusieurs experts
+  * un expert peut être déclaré compétent sur plusieurs thèmes 
 
 ## TODO
 #1
