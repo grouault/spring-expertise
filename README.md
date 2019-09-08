@@ -10,6 +10,8 @@ Gestion simplifiée de compétences détenues par des experts.
 - matrice de toutes les ***compétences disponibles***.
   * une compétence peut se définir comme l'association entre un expert et un thème.
   * un même expert peut-être référencé dans plusieurs compétences
+- complément : une table de données statistiques est mise en place pour tracer les modifications apportées aux informations présentes dans l'annuaire
+
 
 ## TODO
 #1
