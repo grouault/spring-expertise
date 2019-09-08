@@ -36,7 +36,6 @@ implements IChargerDonnees {
 
 	/**
 	 * Lire les entrees du fichier une par une.
-	 * Retourne l'entrée lue sous forme d'une chaine de caractères
 	 */
 	@Override
 	public String lireEntree() {

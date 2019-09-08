@@ -25,9 +25,12 @@ public class ExpertiseCore001 {
 		// Necessite de definir le module de chargement
 		_chargeurDonnees = new ChargeurFichierTexte("donnees/experts.txt");
 		_chargeurExperts = new ChargeurExpert(_chargeurDonnees);
+		
 		// Chargement
 		_gestionExperts.charger(_chargeurExperts);
+		
 		// Impression (pour voir le resultat !!)
 		_gestionExperts.imprimer();
+		
 	} // main
 } // ExpertiseCore001

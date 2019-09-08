@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="configuration"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/projects/java-project/spring/spring-expertise/libs/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/projects/java-project/spring/spring-expertise/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/projects/java-project/spring/spring-expertise/libs/org.springframework.asm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/projects/java-project/spring/spring-expertise/libs/org.springframework.beans-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/projects/java-project/spring/spring-expertise/libs/org.springframework.context-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/projects/java-project/spring/spring-expertise/libs/org.springframework.core-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/projects/java-project/spring/spring-expertise/libs/org.springframework.expression-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
