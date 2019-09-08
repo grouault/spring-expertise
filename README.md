@@ -12,6 +12,8 @@ Gestion simplifiée de compétences détenues par des experts.
   * un même expert peut-être référencé dans plusieurs compétences
 - complément : une table de données statistiques est mise en place pour tracer les modifications apportées aux informations présentes dans l'annuaire
 
+## Principales règles de gestion applicables
+- Expert: [numero,nom, prenom,date_creation,date_modification]
 
 ## TODO
 #1
