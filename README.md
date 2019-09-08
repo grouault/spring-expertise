@@ -12,7 +12,6 @@ Gestion simplifiée de compétences détenues par des experts.
   * un même expert peut-être référencé dans plusieurs compétences
 
 ## TODO
-~~ this ~~
 #1
 mojombo#1
 mojombo/github-flavored-markdown#1
