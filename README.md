@@ -8,7 +8,7 @@ Gestion simplifiée de compétences détenues par des experts.
   * une expertise est recensée dès lors qu'un expert se déclare compétent sur le sujet.
   * une expertise peut être présente dans la liste bien qu'aucun expert n'y soit rattaché.
 - matrice de toutes les ***compétences disponibles***.
-  * une compétence peut se définir comme l'association entre un expert et un thème.
+  * une ***compétence*** peut se définir comme l'association entre un expert et un thème.
   * un même expert peut-être référencé dans plusieurs compétences
 - complément : une table de données statistiques est mise en place pour tracer les modifications apportées aux informations présentes dans l'annuaire
 
