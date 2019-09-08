@@ -15,3 +15,5 @@ Gestion simplifiée de compétences détenues par des experts.
 #1
 mojombo#1
 mojombo/github-flavored-markdown#1
+
+@mention
