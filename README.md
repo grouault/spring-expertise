@@ -21,13 +21,11 @@ Gestion simplifiée de compétences détenues par des experts.
 
 ## Fonctions attendues
 - Consultation de la liste des Experts
-- Modification, suppression, et modification d'entrées
+  * Modification, suppression, et modification d'entrées
 - Consultation de la liste des Thémes
-- Modification, suppression, et modification d'entrées
-- Recherche d'une compétence
-  * soit à partir d'un thème
-  * soit à partir d'un expert
-- 
+  * Modification, suppression, et modification d'entrées
+- Recherche d'une compétence soit à partir d'un thème, soit à partir d'un expert
+  * Modification, suppression, et modification d'entrées
 
 ## TODO
 #1
