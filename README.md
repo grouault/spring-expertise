@@ -1,8 +1,8 @@
-# spring-expertise
+## spring-expertise
 Gestion simplifiée de compétences détenues par des experts.
 ==> matrice des compétences ou annuaire d'expertise
 
-# Entités informationnelles
+## Entités informationnelles
 - liste des Experts 
 - liste des Thèmes pour lesquels une expertise est recensée ou pourrait l'être.
   * une expertise est recensée dès lors qu'un expert se déclare compétent sur le sujet.
