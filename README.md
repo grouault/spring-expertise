@@ -17,7 +17,7 @@ mojombo#1
 mojombo/github-flavored-markdown#1
 
 ```javascript
-function fancyAlert(arg) {
+private void fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
